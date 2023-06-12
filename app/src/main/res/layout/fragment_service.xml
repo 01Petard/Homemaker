@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="44dp"
+        android:background="#57c1fa">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10dp"
+            android:text="服务"
+            android:textColor="#ffffff"
+            android:textSize="20sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginTop="10dp"
+            android:text="帮助?"
+            android:layout_marginRight="20dp"
+            android:textColor="#ffce22"
+            android:textSize="17sp" />
+
+
+
+    </RelativeLayout>
+
+
+    <ImageView
+        android:layout_marginBottom="5dp"
+        android:src="@mipmap/ic_launcher"
+        android:layout_width="match_parent"
+        android:layout_height="80dp" />
+
+    <Button
+        android:text="下单"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/service_btn_buy" />
+
+    <Button
+        android:text="抢单"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/service_btn_rob" />
+
+</LinearLayout>

@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="tudan.Activity.OrderActivity">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:id="@+id/lin1"
+                android:layout_height="40dp"
+                android:orientation="horizontal">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="20dp"
+                    android:gravity="center"
+
+                    android:text="订单标题:"
+                    android:textStyle="bold"/>
+                <EditText
+                    android:layout_width="match_parent"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="10dp"
+
+                    android:layout_marginBottom="10dp"
+
+
+                    android:layout_height="wrap_content"
+                    android:id="@+id/order_title"
+                    android:gravity="center"
+                    android:background="@drawable/bg_content"
+
+                    android:inputType="textMultiLine"
+                    android:minLines="2"
+                    android:textColor="#4d4d4d"
+                    android:textColorHint="#999999"
+                    android:textColorHighlight="#fe5151"
+                    android:shadowColor="#4284f5"
+                    android:maxLength="50"/>
+
+
+
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_below="@+id/lin1"
+                android:id="@+id/lin2"
+                android:orientation="horizontal">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="20dp"
+
+                    android:text="配送时间:"
+                    android:textStyle="bold"/>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:id="@+id/delivery_time"
+                    android:gravity="center"
+                    android:text="24:00"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:id="@+id/lin3"
+                android:layout_below="@+id/lin2"
+                android:layout_height="40dp"
+                android:orientation="horizontal">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="20dp"
+
+                    android:text="地址选择:"
+                    android:textStyle="bold"/>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:id="@+id/delivery_address"
+                    android:gravity="center"
+                    android:text="地图定位"/>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:id="@+id/lin4"
+                android:layout_below="@+id/lin3"
+                android:orientation="horizontal">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="20dp"
+                    android:gravity="center"
+
+                    android:text="详细地址:"
+                    android:textStyle="bold"/>
+                <EditText
+                    android:layout_width="match_parent"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="10dp"
+
+                    android:layout_marginBottom="10dp"
+
+
+                    android:layout_height="wrap_content"
+                    android:id="@+id/detailed_address"
+                    android:gravity="center"
+                    android:background="@drawable/bg_content"
+
+                    android:inputType="textMultiLine"
+                    android:minLines="2"
+                    android:textColor="#4d4d4d"
+                    android:textColorHint="#999999"
+                    android:textColorHighlight="#fe5151"
+                    android:shadowColor="#4284f5"
+                    android:maxLength="50"/>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:id="@+id/lin5"
+                android:layout_below="@+id/lin4"
+                android:layout_height="40dp"
+                android:orientation="horizontal">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="20dp"
+                    android:gravity="center"
+                    android:text="指定好友:"
+                    android:textStyle="bold"/>
+                <Spinner
+                    android:layout_marginLeft="20dp"
+                    android:layout_width="match_parent"
+                    android:layout_marginRight="20dp"
+                    android:layout_height="40dp"
+                    android:id="@+id/spinner"
+                    android:gravity="center" />
+            </LinearLayout>
+
+            <android.support.v7.widget.RecyclerView
+                android:layout_below="@+id/lin5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/selectRecyclerView">
+            </android.support.v7.widget.RecyclerView>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/selectRecyclerView"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="50dp"
+                android:orientation="vertical">
+
+                <android.support.design.widget.TextInputLayout
+                    android:id="@+id/edit_task"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingTop="20dp"
+                    android:paddingLeft="32dp"
+                    android:paddingRight="32dp"
+                    android:focusable="true"
+                    android:focusableInTouchMode="true">
+
+                    <EditText
+                        android:id="@+id/edid_task_content"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:hint="备注:"
+                        android:gravity="left|top"
+                        android:background="@drawable/bg_content"
+
+                        android:inputType="textMultiLine"
+                        android:minLines="6"
+                        android:textColor="#4d4d4d"
+                        android:textColorHint="#999999"
+                        android:textColorHighlight="#fe5151"
+                        android:shadowColor="#4284f5"
+                        android:maxLength="200"
+                        />
+                </android.support.design.widget.TextInputLayout>
+            </LinearLayout>
+        </RelativeLayout>
+    </ScrollView>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+
+        android:gravity="center_vertical"
+        android:layout_alignParentBottom="true"
+        android:background="#aa000000"
+        android:id="@+id/bottom"
+        android:layout_height="50dp">
+        <RelativeLayout
+            android:layout_width="60dp"
+            android:layout_height="match_parent">
+            <TextView android:layout_centerInParent="true"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:text="总计:"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:textColor="#fff"
+                android:textSize="17dp"
+                android:id="@+id/imgCart"/>
+            <TextView android:gravity="center"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/tvCount"
+                android:layout_marginTop="5dp"
+                android:textColor="#fff"
+                android:text="1"
+                android:visibility="gone"
+                android:layout_marginRight="5dp"
+                android:textSize="12sp"
+                android:layout_alignParentRight="true"
+                android:background="@drawable/circle_red"
+                />
+        </RelativeLayout>
+        <TextView android:layout_marginLeft="10dp"
+            android:text="￥ 0"
+            android:textSize="20sp"
+            android:textColor="#fff"
+            android:id="@+id/tvCost"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content" />
+
+        <TextView android:textColor="#fff"
+            android:layout_width="120dp"
+            android:layout_height="match_parent"
+            android:text="去支付"
+            android:background="#22c222"
+            android:onClick="onClick"
+            android:clickable="true"
+            android:id="@+id/tvSubmit"
+
+            android:textSize="18sp"
+            android:gravity="center"
+
+            />
+    </LinearLayout>
+
+</RelativeLayout>

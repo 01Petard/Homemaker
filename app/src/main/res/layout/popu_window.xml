@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginRight="10dp"
+    android:layout_marginLeft="10dp"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:background="@drawable/pop_linear_shape"
+        android:orientation="vertical"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/take_photo"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:textColor="#007ae8"
+            android:textSize="21sp"
+            android:gravity="center_horizontal"
+            android:layout_gravity="center_horizontal"
+            android:text="打开相机"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <View
+            android:layout_gravity="center_horizontal"
+            android:background="#f2f2f2"
+            android:layout_width="250dp"
+            android:layout_height="1dp"/>
+
+        <TextView
+            android:id="@+id/all_photo"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:textColor="#007ae8"
+            android:textSize="21sp"
+            android:gravity="center_horizontal"
+            android:layout_gravity="center_horizontal"
+            android:text="手机相册上传"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:background="@drawable/pop_linear_shape"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/out"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:textColor="#007ae8"
+            android:textSize="21sp"
+            android:gravity="center_horizontal"
+            android:layout_gravity="center_horizontal"
+            android:text="打开相机"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+</LinearLayout>

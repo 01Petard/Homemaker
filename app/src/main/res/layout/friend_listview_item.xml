@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_marginLeft="10dp"
+    android:background="#ffffff"
+    android:layout_marginRight="10dp"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/friend_tv_number"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="60dp"
+        android:layout_marginTop="30dp"
+        android:text="3"
+        android:textColor="#ff0000"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_below="@id/friend_tv_number"
+        android:text="满20元使用"
+        android:textColor="#8c8c8c"
+        android:layout_marginLeft="40dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/friend_tv_fill" />
+
+
+    <TextView
+        android:textColor="#000000"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:text="亲密优惠券"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView7"
+        android:layout_alignBaseline="@+id/friend_tv_number"
+        android:layout_alignBottom="@+id/friend_tv_number"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:text="限只能同好友tudan之间使用"
+        android:layout_width="110dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/friend_tv_text3"
+        android:layout_below="@+id/textView7"
+        android:layout_alignStart="@+id/textView7" />
+
+    <ImageView
+        android:layout_below="@id/friend_tv_text3"
+        android:src="@mipmap/friend_lines"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/lines" />
+
+    <TextView
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_below="@id/lines"
+        android:textSize="12sp"
+        android:textColor="#8c8c8c"
+        android:text="限制时间段:  2017年7月1日-2017年9月1日"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv_line" />
+
+    <Button
+
+        android:textColor="#57c1fa"
+        android:text="立即使用"
+        android:background="@drawable/friend_btn_use"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/friend_btn_start"
+        android:layout_marginStart="14dp"
+        android:layout_alignTop="@+id/textView7"
+        android:layout_toEndOf="@+id/friend_tv_text3" />
+
+
+
+</RelativeLayout>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <FrameLayout
+        android:id="@+id/my_conversation_list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </FrameLayout>
+
+    <RelativeLayout
+        android:background="#57c1fa"
+        android:layout_width="match_parent"
+        android:layout_height="51dp">
+
+        <LinearLayout
+            android:id="@+id/con_ll_add"
+            android:layout_centerVertical="true"
+            android:orientation="horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+
+            <ImageView
+                android:paddingLeft="10dp"
+                android:paddingBottom="5dp"
+                android:paddingRight="5dp"
+                android:src="@mipmap/conversation_add1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:textSize="17sp"
+                android:gravity="center_vertical"
+                android:text="加好友"
+                android:textColor="#ffce22"
+                android:paddingBottom="5dp"
+                android:paddingTop="1dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/con_ll_addresslist"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:orientation="horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:textSize="17sp"
+                android:gravity="center_vertical"
+                android:text="通讯录"
+                android:textColor="#ffce22"
+                android:paddingBottom="5dp"
+                android:paddingTop="1dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <ImageView
+                android:paddingLeft="5dp"
+                android:paddingBottom="5dp"
+                android:paddingRight="10dp"
+                android:src="@mipmap/person1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+
+
+    </RelativeLayout>
+
+</RelativeLayout>

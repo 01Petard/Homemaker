@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/welcome_bg"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="30dp"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/register_edit_username"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:drawableLeft="@mipmap/register_id"
+            android:drawablePadding="8dp"
+            android:textColor="#ffffff"
+            android:textColorHint="#ffffff"
+            android:hint="请输入用户名"
+            android:inputType="text" />
+
+        <EditText
+            android:id="@+id/register_edit_password"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColorHint="#ffffff"
+            android:textColor="#ffffff"
+            android:layout_marginTop="3dp"
+            android:drawableLeft="@mipmap/register_password"
+            android:drawablePadding="8dp"
+            android:hint="密码"
+            android:inputType="numberPassword" />
+
+        <EditText
+            android:id="@+id/register_edit_password2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColorHint="#ffffff"
+            android:textColor="#ffffff"
+            android:layout_marginTop="3dp"
+            android:drawableLeft="@mipmap/register_password2"
+            android:drawablePadding="8dp"
+            android:hint="确认密码"
+            android:inputType="numberPassword" />
+
+        <EditText
+            android:id="@+id/register_edit_phone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColorHint="#ffffff"
+            android:textColor="#ffffff"
+            android:layout_marginTop="3dp"
+            android:drawableLeft="@mipmap/register_phone4"
+            android:drawablePadding="8dp"
+            android:hint="请输入手机号"
+            android:inputType="phone" />
+
+
+        <RelativeLayout
+            android:layout_marginTop="3dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <EditText
+                android:id="@+id/register_edit_test"
+                android:layout_width="170dp"
+                android:layout_height="wrap_content"
+                android:textColor="#ffffff"
+                android:drawableLeft="@mipmap/register_test"
+                android:drawablePadding="8dp"
+                android:textColorHint="#ffffff"
+                android:hint="请输入验证码"
+                android:inputType="number" />
+
+
+            <TextView
+                android:id="@+id/register_tv_test"
+                android:text="获取验证码"
+                android:textColor="#fbe0a6"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:textSize="18sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </RelativeLayout>
+
+        <Button
+            android:id="@+id/login_btn_register"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/login_btn_go"
+            android:text="注册"
+            android:textColor="#ffffff"
+            android:textSize="21sp" />
+
+    </LinearLayout>
+</LinearLayout>

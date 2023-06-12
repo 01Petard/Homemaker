@@ -1,0 +1,786 @@
+[
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_received_location.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_received_location.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_chat_menu_item.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_chat_menu_item.xml"
+    },
+    {
+        "merged": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_received_bigexpression.xml",
+        "source": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_received_bigexpression.xml"
+    },
+    {
+        "merged": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_emojicon.xml",
+        "source": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_emojicon.xml"
+    },
+    {
+        "merged": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_received_message.xml",
+        "source": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_received_message.xml"
+    },
+    {
+        "merged": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_showvideo_activity.xml",
+        "source": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_showvideo_activity.xml"
+    },
+    {
+        "merged": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_sent_voice.xml",
+        "source": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_sent_voice.xml"
+    },
+    {
+        "merged": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_widget_contact_list.xml",
+        "source": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_widget_contact_list.xml"
+    },
+    {
+        "merged": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_search_bar.xml",
+        "source": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_search_bar.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_expression_gridview.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_expression_gridview.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_fragment_conversation_list.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_fragment_conversation_list.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_scroll_tab_item.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_scroll_tab_item.xml"
+    },
+    {
+        "merged": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_sent_file.xml",
+        "source": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_sent_file.xml"
+    },
+    {
+        "merged": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_widget_emojicon_tab_bar.xml",
+        "source": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_widget_emojicon_tab_bar.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_sent_picture.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_sent_picture.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_widget_title_bar.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_widget_title_bar.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_received_message.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_received_message.xml"
+    },
+    {
+        "merged": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_chat_history.xml",
+        "source": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_chat_history.xml"
+    },
+    {
+        "merged": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_sent_bigexpression.xml",
+        "source": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_sent_bigexpression.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_fragment_conversation_list.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_fragment_conversation_list.xml"
+    },
+    {
+        "merged": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_received_file.xml",
+        "source": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_received_file.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_layout_emojicon_menu.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_layout_emojicon_menu.xml"
+    },
+    {
+        "merged": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_received_voice_call.xml",
+        "source": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_received_voice_call.xml"
+    },
+    {
+        "merged": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_sent_message.xml",
+        "source": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_sent_message.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_fragment_chat.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_fragment_chat.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_widget_chat_primary_menu.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_widget_chat_primary_menu.xml"
+    },
+    {
+        "merged": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_layout_emojicon_menu.xml",
+        "source": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_layout_emojicon_menu.xml"
+    },
+    {
+        "merged": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_received_location.xml",
+        "source": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_received_location.xml"
+    },
+    {
+        "merged": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_received_location.xml",
+        "source": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_received_location.xml"
+    },
+    {
+        "merged": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_sent_message.xml",
+        "source": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_sent_message.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_activity_show_big_image.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_activity_show_big_image.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_conversation_item.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_conversation_item.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_received_bigexpression.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_received_bigexpression.xml"
+    },
+    {
+        "merged": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_layout_chat_primary_menu.xml",
+        "source": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_layout_chat_primary_menu.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_widget_contact_list.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_widget_contact_list.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_sent_bigexpression.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_sent_bigexpression.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_sent_picture.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_sent_picture.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_layout_chat_primary_menu.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_layout_chat_primary_menu.xml"
+    },
+    {
+        "merged": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_expression_gridview.xml",
+        "source": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_expression_gridview.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_received_location.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_received_location.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_chat_history.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_chat_history.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_widget_contact_list.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_widget_contact_list.xml"
+    },
+    {
+        "merged": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_widget_emojicon_tab_bar.xml",
+        "source": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_widget_emojicon_tab_bar.xml"
+    },
+    {
+        "merged": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_widget_switch_button.xml",
+        "source": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_widget_switch_button.xml"
+    },
+    {
+        "merged": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_commom_back_btn.xml",
+        "source": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_commom_back_btn.xml"
+    },
+    {
+        "merged": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_widget_chat_primary_menu.xml",
+        "source": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_widget_chat_primary_menu.xml"
+    },
+    {
+        "merged": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_received_voice_call.xml",
+        "source": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_received_voice_call.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_received_bigexpression.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_received_bigexpression.xml"
+    },
+    {
+        "merged": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_sent_location.xml",
+        "source": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_sent_location.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_chat_message_list.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_chat_message_list.xml"
+    },
+    {
+        "merged": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_layout_emojicon_menu.xml",
+        "source": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_layout_emojicon_menu.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_contact.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_contact.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_sent_voice.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_sent_voice.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_big_expression.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_big_expression.xml"
+    },
+    {
+        "merged": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_sent_video.xml",
+        "source": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_sent_video.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_expression.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_expression.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_widget_switch_button.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_widget_switch_button.xml"
+    },
+    {
+        "merged": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_activity_show_big_image.xml",
+        "source": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_activity_show_big_image.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_widget_emojicon.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_widget_emojicon.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_search_bar.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_search_bar.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_received_voice.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_received_voice.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_alert_dialog.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_alert_dialog.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_received_picture.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_received_picture.xml"
+    },
+    {
+        "merged": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_sent_video_call.xml",
+        "source": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_sent_video_call.xml"
+    },
+    {
+        "merged": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_chat_menu_item.xml",
+        "source": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_chat_menu_item.xml"
+    },
+    {
+        "merged": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_showvideo_activity.xml",
+        "source": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_showvideo_activity.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_scroll_tab_item.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_scroll_tab_item.xml"
+    },
+    {
+        "merged": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_sent_file.xml",
+        "source": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_sent_file.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_sent_video_call.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_sent_video_call.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_sent_voice_call.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_sent_voice_call.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_activity_show_file.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_activity_show_file.xml"
+    },
+    {
+        "merged": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_widget_title_bar.xml",
+        "source": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_widget_title_bar.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_widget_voice_recorder.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_widget_voice_recorder.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_alert_dialog.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_alert_dialog.xml"
+    },
+    {
+        "merged": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_expression_gridview.xml",
+        "source": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_expression_gridview.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_received_picture.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_received_picture.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_received_video_call.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_received_video_call.xml"
+    },
+    {
+        "merged": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_activity_baidumap.xml",
+        "source": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_activity_baidumap.xml"
+    },
+    {
+        "merged": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_activity_show_file.xml",
+        "source": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_activity_show_file.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_expression_gridview.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_expression_gridview.xml"
+    },
+    {
+        "merged": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_received_message.xml",
+        "source": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_received_message.xml"
+    },
+    {
+        "merged": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_widget_emojicon.xml",
+        "source": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_widget_emojicon.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_layout_emojicon_menu.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_layout_emojicon_menu.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_sent_message.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_sent_message.xml"
+    },
+    {
+        "merged": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_search_bar_with_padding.xml",
+        "source": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_search_bar_with_padding.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_fragment_contact_list.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_fragment_contact_list.xml"
+    },
+    {
+        "merged": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_widget_contact_list.xml",
+        "source": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_widget_contact_list.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_big_expression.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_big_expression.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_widget_chat_primary_menu.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_widget_chat_primary_menu.xml"
+    },
+    {
+        "merged": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_sent_voice_call.xml",
+        "source": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_sent_voice_call.xml"
+    },
+    {
+        "merged": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_received_voice.xml",
+        "source": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_received_voice.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_search_bar.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_search_bar.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_received_video.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_received_video.xml"
+    },
+    {
+        "merged": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_received_video_call.xml",
+        "source": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_received_video_call.xml"
+    },
+    {
+        "merged": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_widget_voice_recorder.xml",
+        "source": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_widget_voice_recorder.xml"
+    },
+    {
+        "merged": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_received_picture.xml",
+        "source": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_received_picture.xml"
+    },
+    {
+        "merged": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_chat_history.xml",
+        "source": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_chat_history.xml"
+    },
+    {
+        "merged": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_scroll_tab_item.xml",
+        "source": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_scroll_tab_item.xml"
+    },
+    {
+        "merged": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_sent_bigexpression.xml",
+        "source": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_sent_bigexpression.xml"
+    },
+    {
+        "merged": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_widget_emojicon.xml",
+        "source": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_widget_emojicon.xml"
+    },
+    {
+        "merged": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_fragment_contact_list.xml",
+        "source": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_fragment_contact_list.xml"
+    },
+    {
+        "merged": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_chat_message_list.xml",
+        "source": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_chat_message_list.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_sent_location.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_sent_location.xml"
+    },
+    {
+        "merged": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_sent_picture.xml",
+        "source": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_sent_picture.xml"
+    },
+    {
+        "merged": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_conversation_item.xml",
+        "source": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_conversation_item.xml"
+    },
+    {
+        "merged": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_widget_chat_primary_menu.xml",
+        "source": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_widget_chat_primary_menu.xml"
+    },
+    {
+        "merged": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_received_video.xml",
+        "source": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_received_video.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_activity_show_file.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_activity_show_file.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_widget_chat_input_menu.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_widget_chat_input_menu.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_widget_emojicon_tab_bar.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_widget_emojicon_tab_bar.xml"
+    },
+    {
+        "merged": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_expression.xml",
+        "source": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_expression.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_expression.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_expression.xml"
+    },
+    {
+        "merged": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_sent_voice_call.xml",
+        "source": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_sent_voice_call.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_received_voice_call.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_received_voice_call.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_sent_voice.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_sent_voice.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_sent_bigexpression.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_sent_bigexpression.xml"
+    },
+    {
+        "merged": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_big_expression.xml",
+        "source": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_big_expression.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_sent_video.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_sent_video.xml"
+    },
+    {
+        "merged": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_chat_menu_item.xml",
+        "source": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_chat_menu_item.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_chat_history.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_chat_history.xml"
+    },
+    {
+        "merged": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_received_video.xml",
+        "source": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_received_video.xml"
+    },
+    {
+        "merged": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_alert_dialog.xml",
+        "source": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_alert_dialog.xml"
+    },
+    {
+        "merged": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_fragment_conversation_list.xml",
+        "source": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_fragment_conversation_list.xml"
+    },
+    {
+        "merged": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_activity_baidumap.xml",
+        "source": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_activity_baidumap.xml"
+    },
+    {
+        "merged": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_emojicon.xml",
+        "source": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_emojicon.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_received_video.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_received_video.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_sent_location.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_sent_location.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_sent_voice_call.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_sent_voice_call.xml"
+    },
+    {
+        "merged": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_sent_location.xml",
+        "source": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_sent_location.xml"
+    },
+    {
+        "merged": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_sent_video.xml",
+        "source": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_sent_video.xml"
+    },
+    {
+        "merged": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_scroll_tab_item.xml",
+        "source": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_scroll_tab_item.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_received_file.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_received_file.xml"
+    },
+    {
+        "merged": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_widget_chat_input_menu.xml",
+        "source": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_widget_chat_input_menu.xml"
+    },
+    {
+        "merged": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_sent_video_call.xml",
+        "source": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_sent_video_call.xml"
+    },
+    {
+        "merged": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_expression.xml",
+        "source": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_expression.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_emojicon.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_emojicon.xml"
+    },
+    {
+        "merged": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_commom_back_btn.xml",
+        "source": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_commom_back_btn.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_received_voice.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_received_voice.xml"
+    },
+    {
+        "merged": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_conversation_item.xml",
+        "source": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_conversation_item.xml"
+    },
+    {
+        "merged": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_chat_message_list.xml",
+        "source": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_chat_message_list.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_conversation_item.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_conversation_item.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_widget_emojicon_tab_bar.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_widget_emojicon_tab_bar.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_widget_chat_input_menu.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_widget_chat_input_menu.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_contact.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_contact.xml"
+    },
+    {
+        "merged": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_sent_picture.xml",
+        "source": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_sent_picture.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_sent_video_call.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_sent_video_call.xml"
+    },
+    {
+        "merged": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_widget_switch_button.xml",
+        "source": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_widget_switch_button.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_showvideo_activity.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_showvideo_activity.xml"
+    },
+    {
+        "merged": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_widget_title_bar.xml",
+        "source": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_widget_title_bar.xml"
+    },
+    {
+        "merged": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_fragment_chat.xml",
+        "source": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_fragment_chat.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_received_message.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_received_message.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_sent_video.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_sent_video.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_widget_emojicon.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_widget_emojicon.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_sent_file.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_sent_file.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_search_bar_with_padding.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_search_bar_with_padding.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_activity_baidumap.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_activity_baidumap.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_received_video_call.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_received_video_call.xml"
+    },
+    {
+        "merged": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_search_bar.xml",
+        "source": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_search_bar.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_emojicon.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_emojicon.xml"
+    },
+    {
+        "merged": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_contact.xml",
+        "source": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_contact.xml"
+    },
+    {
+        "merged": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_received_voice.xml",
+        "source": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_received_voice.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_activity_show_big_image.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_activity_show_big_image.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_showvideo_activity.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_showvideo_activity.xml"
+    },
+    {
+        "merged": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_sent_voice.xml",
+        "source": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_sent_voice.xml"
+    },
+    {
+        "merged": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_layout_chat_primary_menu.xml",
+        "source": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_layout_chat_primary_menu.xml"
+    },
+    {
+        "merged": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_widget_chat_input_menu.xml",
+        "source": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_widget_chat_input_menu.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_widget_title_bar.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_widget_title_bar.xml"
+    },
+    {
+        "merged": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_received_file.xml",
+        "source": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_received_file.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_fragment_contact_list.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_fragment_contact_list.xml"
+    },
+    {
+        "merged": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_activity_show_big_image.xml",
+        "source": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_activity_show_big_image.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_activity_baidumap.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_activity_baidumap.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_widget_voice_recorder.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_widget_voice_recorder.xml"
+    },
+    {
+        "merged": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_search_bar_with_padding.xml",
+        "source": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_search_bar_with_padding.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_chat_menu_item.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_chat_menu_item.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_fragment_chat.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_fragment_chat.xml"
+    },
+    {
+        "merged": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_fragment_conversation_list.xml",
+        "source": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_fragment_conversation_list.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_widget_switch_button.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_widget_switch_button.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_received_voice_call.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_received_voice_call.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_commom_back_btn.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_commom_back_btn.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_search_bar_with_padding.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_search_bar_with_padding.xml"
+    },
+    {
+        "merged": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_received_bigexpression.xml",
+        "source": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_received_bigexpression.xml"
+    },
+    {
+        "merged": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_contact.xml",
+        "source": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_contact.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_chat_message_list.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_chat_message_list.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_sent_file.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_sent_file.xml"
+    },
+    {
+        "merged": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_received_picture.xml",
+        "source": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_received_picture.xml"
+    },
+    {
+        "merged": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_alert_dialog.xml",
+        "source": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_alert_dialog.xml"
+    },
+    {
+        "merged": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_received_video_call.xml",
+        "source": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_received_video_call.xml"
+    },
+    {
+        "merged": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_big_expression.xml",
+        "source": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_big_expression.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_sent_message.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_sent_message.xml"
+    },
+    {
+        "merged": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_activity_show_file.xml",
+        "source": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_activity_show_file.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_commom_back_btn.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_commom_back_btn.xml"
+    },
+    {
+        "merged": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_fragment_contact_list.xml",
+        "source": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_fragment_contact_list.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_layout_chat_primary_menu.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_layout_chat_primary_menu.xml"
+    },
+    {
+        "merged": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_widget_voice_recorder.xml",
+        "source": "E:\\shujia\\guosai7.24\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_widget_voice_recorder.xml"
+    },
+    {
+        "merged": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_fragment_chat.xml",
+        "source": "E:\\guosai7.27\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_fragment_chat.xml"
+    },
+    {
+        "merged": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_received_file.xml",
+        "source": "E:\\Homemaker\\path\\11\\222\\333\\444\\555\\Homemaker\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_received_file.xml"
+    }
+]

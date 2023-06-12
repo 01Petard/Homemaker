@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/community_ll_title"
+        android:background="#57c1fa"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="44dp">
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="30dp">
+
+                <View
+                    android:id="@+id/community_view_empty"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1" />
+
+                <TextView
+                    android:id="@+id/community_tv_chat"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:paddingTop="5dp"
+                    android:text="聊天"
+                    android:gravity="center_horizontal"
+                    android:textColor="@drawable/order_tv_selector"
+                    android:textSize="20sp" />
+
+
+                <TextView
+                    android:id="@+id/community_tv_circle"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:paddingTop="5dp"
+                    android:text="圈子"
+                    android:gravity="center_horizontal"
+                    android:textColor="@drawable/order_tv_selector"
+                    android:textSize="20sp" />
+
+                <View
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1" />
+
+            </LinearLayout>
+
+
+        <ImageView
+            android:id="@+id/community_iv_shape_circle"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="2dp"
+            android:scaleType="matrix"
+            android:src="@drawable/shape_circle" />
+    </LinearLayout>
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/community_viewpager_home"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/ll_title" />
+</LinearLayout>

@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="tudan.Activity.EvaluateActivity"
+    >
+
+    <TextView
+        android:layout_marginTop="50dp"
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="请为这次消费进行评价"
+        android:textStyle="bold"
+        android:textSize="25dp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_marginRight="20dp"
+            android:layout_height="wrap_content"
+            android:text="服务态度:"
+            android:textStyle="bold"
+            android:textSize="18dp"/>
+
+        <RatingBar
+            android:id="@+id/as"
+
+            style="@android:style/Widget.Holo.Light.RatingBar.Indicator"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:isIndicator="false"
+            android:numStars="5"
+            android:rating="3"
+            android:stepSize="1">
+
+        </RatingBar>
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_marginRight="20dp"
+            android:layout_height="wrap_content"
+            android:text="物流速度:"
+            android:textStyle="bold"
+            android:textSize="18dp"/>
+
+        <RatingBar
+            android:id="@+id/ls"
+
+            style="@android:style/Widget.Holo.Light.RatingBar.Indicator"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:isIndicator="false"
+            android:numStars="5"
+            android:rating="3"
+            android:stepSize="1">
+
+        </RatingBar>
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_marginRight="20dp"
+            android:layout_height="wrap_content"
+            android:text="物品相符:"
+            android:textStyle="bold"
+            android:textSize="18dp"/>
+
+        <RatingBar
+            android:id="@+id/is"
+
+            style="@android:style/Widget.Holo.Light.RatingBar.Indicator"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:isIndicator="false"
+            android:layout_marginLeft="10dp"
+            android:numStars="5"
+            android:rating="3"
+            android:stepSize="1">
+
+        </RatingBar>
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_marginRight="20dp"
+            android:layout_height="wrap_content"
+            android:text="满意程度:"
+            android:textStyle="bold"
+            android:textSize="18dp"/>
+
+        <RatingBar
+            android:id="@+id/ss"
+
+            style="@android:style/Widget.Holo.Light.RatingBar.Indicator"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:numStars="5"
+            android:isIndicator="false"
+            android:rating="3"
+            android:stepSize="1">
+
+        </RatingBar>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/selectRecyclerView"
+        android:layout_marginTop="0dp"
+        android:orientation="vertical">
+
+        <android.support.design.widget.TextInputLayout
+            android:id="@+id/edit_task"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="20dp"
+            android:paddingLeft="32dp"
+            android:paddingRight="32dp"
+            android:focusable="true"
+            android:focusableInTouchMode="true">
+
+            <EditText
+                android:id="@+id/edid_review_content"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="评论:"
+                android:gravity="left|top"
+                android:background="@drawable/bg_content"
+
+                android:inputType="textMultiLine"
+                android:minLines="6"
+                android:textColor="#4d4d4d"
+                android:textColorHint="#999999"
+                android:textColorHighlight="#fe5151"
+                android:shadowColor="#4284f5"
+                android:maxLength="200"
+                />
+        </android.support.design.widget.TextInputLayout>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:gravity="center">
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="64dp"
+        android:layout_marginRight="64dp"
+        android:layout_marginTop="0dp"
+        android:orientation="horizontal">
+
+        <android.support.v7.widget.CardView
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            app:cardBackgroundColor="#fff"
+
+            app:cardElevation="2dp"
+            app:cardUseCompatPadding="true"
+            app:cardMaxElevation="2dp"
+            >
+
+            <TextView
+                android:id="@+id/btn_submit_edit"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:textSize="16sp"
+                android:paddingTop="12dp"
+                android:paddingBottom="12dp"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"
+                android:background="@drawable/btn_menu_item_selected"
+                android:text="提交"
+                android:singleLine="true"
+                android:clickable="true"
+                android:textColor="#fff" />
+        </android.support.v7.widget.CardView>
+
+
+
+        <android.support.v7.widget.CardView
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            app:cardBackgroundColor="#fff"
+
+            app:cardElevation="2dp"
+            app:cardUseCompatPadding="true"
+            app:cardMaxElevation="2dp">
+
+            <TextView
+                android:id="@+id/btn_return"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:textSize="16sp"
+                android:paddingTop="12dp"
+                android:paddingBottom="12dp"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"
+                android:background="@drawable/btn_menu_item"
+                android:text="返回"
+                android:singleLine="true"
+                android:clickable="true"
+                android:textColor="@color/login_btn_dark" />
+        </android.support.v7.widget.CardView>
+    </LinearLayout>
+    </LinearLayout>
+</LinearLayout>
